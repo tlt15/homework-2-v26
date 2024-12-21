@@ -18,7 +18,7 @@ pip install subprocess
 
 ```bash
 # Активируйте виртуальное окружение
-python -m venv venv
+py -m venv venv
 # Для Windows:
 venv\Scripts\activate
 # Для MacOS/Linux:
